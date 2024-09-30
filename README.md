@@ -92,3 +92,19 @@ Develop a Next.js (version 12.3.4 in TypeScript) application for a quest platfor
 - **Code Quality:** Code should be clean, well-organized, and follow best practices.
 - **UI Design (Plus, not primary):** A user-friendly and aesthetically pleasing UI is a plus, but the primary focus is on functionality and code quality.
 - **API Interaction:** Proper implementation of mock API endpoints and handling of quest data and completion requests.
+
+## Submission Guide
+
+Please submit your solution using one of the following methods:
+
+1. CodeSandbox.io (Recommended):
+
+   - Fork the provided repository in CodeSandbox.
+   - Complete your implementation in the CodeSandbox environment.
+   - Provide the link to your CodeSandbox project.
+
+2. GitHub:
+
+   - Fork the provided repository on GitHub.
+   - Complete your implementation and push your changes to your forked repository.
+   - Provide the link to your GitHub repository.
